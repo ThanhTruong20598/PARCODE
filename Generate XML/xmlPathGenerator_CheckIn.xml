@@ -1,0 +1,6 @@
+<?xml version="1.0" ?>
+<files>
+    <file Macro=" --forceConfirm=Yes" cmd="si ci" cpid=" --cpid=" description=" --description=&quot;Check In ParCode&quot; " label=" --label=&quot;Check In ParCode&quot;" name="test1.c" path="\test1.c"/>
+    <file Macro=" --forceConfirm=Yes" cmd="si ci" cpid=" --cpid=" description=" --description=&quot;Check In ParCode&quot; " label=" --label=&quot;Check In ParCode&quot;" name="test2.c" path="\test2.c"/>
+    <file Macro=" --forceConfirm=Yes" cmd="si ci" cpid=" --cpid=" description=" --description=&quot;Check In ParCode&quot; " label=" --label=&quot;Check In ParCode&quot;" name="test3.c" path="\test3.c"/>
+</files>

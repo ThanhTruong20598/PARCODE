@@ -1,0 +1,6 @@
+<?xml version="1.0" ?>
+<files>
+    <file Macro=" --forceConfirm=Yes" cmd="si co" cpid=" --cpid=" name="test1.c" path="\test1.c"/>
+    <file Macro=" --forceConfirm=Yes" cmd="si co" cpid=" --cpid=" name="test2.c" path="\test2.c"/>
+    <file Macro=" --forceConfirm=Yes" cmd="si co" cpid=" --cpid=" name="test3.c" path="\test3.c"/>
+</files>
